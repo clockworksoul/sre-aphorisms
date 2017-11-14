@@ -12,7 +12,7 @@ Please ensure your pull request adheres to the following guidelines.
 * Add the aphorism to the end of the relevant section.
     * `A short aphorism that ends with a period.`
     * If the aphorism has a reference, append it as follows: `My aphorism. [[ref]](http://example.com/)`
-    * Keep aphorisms concise.
+    * Keep aphorisms concise. Brevity is ~~the soul of~~ wit.
 * Add a section if needed.
     * Add the section description.
 * Check your spelling and grammar.
