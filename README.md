@@ -21,6 +21,6 @@ My contact info can be found on my [GitHub page](https://github.com/clockworksou
 
 ## License
 
-    Creative Commons Attribution 4.0 International License (CC BY 4.0)
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-    http://creativecommons.org/licenses/by/4.0/
+To the extent possible under law, Matthew Titmus has waived all copyright and related or neighboring rights to this work.
